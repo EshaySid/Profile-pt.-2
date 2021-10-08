@@ -1,0 +1,15 @@
+body{
+    background-color: #e39ff6;
+}
+.title{
+    font-size: 1.5cm;
+    border-style: outset;
+    border-radius: 2cm ;
+    border-color: #311432 ;
+}
+
+.header{
+    border-style: solid ;
+    border-radius: 2cm ;
+    background-color: #ce03f0 ;
+}
